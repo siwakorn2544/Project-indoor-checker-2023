@@ -1,0 +1,14 @@
+.pos{
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+  width: 150px;
+  border: 1px solid black;
+  text-align: center;
+  padding: 70px 0;
+}
+
+body{
+  margin: auto;
+
+}
